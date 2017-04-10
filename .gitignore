@@ -1,3 +1,11 @@
+#Unity
+*/Temp/*
+*/[Oo]bj/*
+*/[Bb]uild/*
+*/Library/*
+sysinfo.txt
+*.info
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
