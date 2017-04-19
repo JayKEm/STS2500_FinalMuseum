@@ -124,6 +124,10 @@
       <Project>{6B3F2599-8C9D-5330-B099-E5631761258F}</Project>
       <Name>MuseumProject.Plugins</Name>
     </ProjectReference>
+    <ProjectReference Include="MuseumProject.csproj">
+      <Project>{7B877315-7D71-F188-E4D1-75F88F6F0CFE}</Project>
+      <Name>MuseumProject</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Standard Assets\Editor\CrossPlatformInput\CrossPlatformInputInitialize.cs" />
