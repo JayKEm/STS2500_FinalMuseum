@@ -53,3 +53,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+MuseumProject/MuseumProject.csproj
+*.csproj
+MuseumProject/MuseumProject.csproj
+MuseumProject/MuseumProject.Plugins.csproj

@@ -1,0 +1,221 @@
+﻿Merge branch 'master' of https://github.com/JayKEm/STS2500_FinalMuseum
+
+# Conflicts:
+#	MuseumProject/Assembly-CSharp-Editor-firstpass.csproj
+#	MuseumProject/Assembly-CSharp-Editor.csproj
+#	MuseumProject/Assembly-CSharp-firstpass.csproj
+#	MuseumProject/Assembly-CSharp.csproj
+#	MuseumProject/MuseumProject.sln
+#	MuseumProject/ProjectSettings/GraphicsSettings.asset
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 2 and 14 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   .gitignore
+#	new file:   MuseumProject/.vs/MuseumProject/v15/.suo
+#	modified:   MuseumProject/Assembly-CSharp-Editor-firstpass.csproj
+#	modified:   MuseumProject/Assembly-CSharp-Editor.csproj
+#	modified:   MuseumProject/Assembly-CSharp-firstpass.csproj
+#	modified:   MuseumProject/Assembly-CSharp.csproj
+#	new file:   MuseumProject/Assets/AIWLABEL (1).jpg
+#	new file:   MuseumProject/Assets/AIWLABEL (1).jpg.meta
+#	new file:   MuseumProject/Assets/AIWLABEL.jpg
+#	new file:   MuseumProject/Assets/AIWLABEL.jpg.meta
+#	new file:   MuseumProject/Assets/ASD.jpg
+#	new file:   MuseumProject/Assets/ASD.jpg.meta
+#	new file:   MuseumProject/Assets/AScannerDarkly.mp4
+#	new file:   MuseumProject/Assets/AScannerDarkly.mp4.meta
+#	new file:   MuseumProject/Assets/Alice 1.mp4
+#	new file:   MuseumProject/Assets/Alice 1.mp4.meta
+#	new file:   MuseumProject/Assets/Charcoal.jpg
+#	new file:   MuseumProject/Assets/Charcoal.jpg.meta
+#	new file:   MuseumProject/Assets/ChristopherGeierScene.unity
+#	new file:   MuseumProject/Assets/ChristopherGeierScene.unity.meta
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-1.jpg
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-1.jpg.meta
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-4.jpg
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-4.jpg.meta
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-7.jpg
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-7.jpg.meta
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-8.jpg
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping-8.jpg.meta
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping.jpg
+#	new file:   MuseumProject/Assets/Disney-Rotoscoping.jpg.meta
+#	new file:   MuseumProject/Assets/Gertie.jpg
+#	new file:   MuseumProject/Assets/Gertie.jpg.meta
+#	new file:   MuseumProject/Assets/Gertie2.jpg
+#	new file:   MuseumProject/Assets/Gertie2.jpg.meta
+#	new file:   MuseumProject/Assets/Materials.meta
+#	new file:   MuseumProject/Assets/Materials/AIWLABEL (1).mat
+#	new file:   MuseumProject/Assets/Materials/AIWLABEL (1).mat.meta
+#	new file:   MuseumProject/Assets/Materials/AIWLABEL.mat
+#	new file:   MuseumProject/Assets/Materials/AIWLABEL.mat.meta
+#	new file:   MuseumProject/Assets/Materials/ASD.mat
+#	new file:   MuseumProject/Assets/Materials/ASD.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Charcoal.mat
+#	new file:   MuseumProject/Assets/Materials/Charcoal.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping-1.mat
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping-1.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping-4.mat
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping-4.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping-7.mat
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping-7.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping.mat
+#	new file:   MuseumProject/Assets/Materials/Disney-Rotoscoping.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Gertie.mat
+#	new file:   MuseumProject/Assets/Materials/Gertie.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Gertie2.mat
+#	new file:   MuseumProject/Assets/Materials/Gertie2.mat.meta
+#	new file:   MuseumProject/Assets/Materials/PP.mat
+#	new file:   MuseumProject/Assets/Materials/PP.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Rolie Polie Olie Intro (1997-).mat
+#	new file:   MuseumProject/Assets/Materials/Rolie Polie Olie Intro (1997-).mat.meta
+#	new file:   MuseumProject/Assets/Materials/Rotoscope.mat
+#	new file:   MuseumProject/Assets/Materials/Rotoscope.mat.meta
+#	new file:   MuseumProject/Assets/Materials/RotoscopeLabel.mat
+#	new file:   MuseumProject/Assets/Materials/RotoscopeLabel.mat.meta
+#	new file:   MuseumProject/Assets/Materials/SB.mat
+#	new file:   MuseumProject/Assets/Materials/SB.mat.meta
+#	new file:   MuseumProject/Assets/Materials/SSSD.mat
+#	new file:   MuseumProject/Assets/Materials/SSSD.mat.meta
+#	new file:   MuseumProject/Assets/Materials/ScannerDarlyLabel.mat
+#	new file:   MuseumProject/Assets/Materials/ScannerDarlyLabel.mat.meta
+#	new file:   MuseumProject/Assets/Materials/Source.mat
+#	new file:   MuseumProject/Assets/Materials/Source.mat.meta
+#	new file:   MuseumProject/Assets/Materials/blacktexture.mat
+#	new file:   MuseumProject/Assets/Materials/blacktexture.mat.meta
+#	new file:   MuseumProject/Assets/Materials/floor_texture.mat
+#	new file:   MuseumProject/Assets/Materials/floor_texture.mat.meta
+#	new file:   MuseumProject/Assets/Materials/marblee.mat
+#	new file:   MuseumProject/Assets/Materials/marblee.mat.meta
+#	new file:   MuseumProject/Assets/Materials/museum_texture.mat
+#	new file:   MuseumProject/Assets/Materials/museum_texture.mat.meta
+#	new file:   MuseumProject/Assets/Materials/painted-skip-trowel-ceiling.mat
+#	new file:   MuseumProject/Assets/Materials/painted-skip-trowel-ceiling.mat.meta
+#	new file:   MuseumProject/Assets/Materials/patent_diagram.mat
+#	new file:   MuseumProject/Assets/Materials/patent_diagram.mat.meta
+#	new file:   MuseumProject/Assets/Materials/rotoscopeexample.mat
+#	new file:   MuseumProject/Assets/Materials/rotoscopeexample.mat.meta
+#	new file:   MuseumProject/Assets/Materials/winsor.mat
+#	new file:   MuseumProject/Assets/Materials/winsor.mat.meta
+#	new file:   MuseumProject/Assets/Materials/wood texture.mat
+#	new file:   MuseumProject/Assets/Materials/wood texture.mat.meta
+#	new file:   MuseumProject/Assets/PP.jpg
+#	new file:   MuseumProject/Assets/PP.jpg.meta
+#	new file:   MuseumProject/Assets/RPO.mp4
+#	new file:   MuseumProject/Assets/RPO.mp4.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/3DText.shader -> MuseumProject/Assets/Resources/Fonts/Cubemaps/3DText.shader
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/3DText.shader.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/3DText.shader.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/Materials.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/Materials.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/Materials/daytime.mat -> MuseumProject/Assets/Resources/Fonts/Cubemaps/Materials/daytime.mat
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/Materials/daytime.mat.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/Materials/daytime.mat.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/Materials/sunset.mat -> MuseumProject/Assets/Resources/Fonts/Cubemaps/Materials/sunset.mat
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/Materials/sunset.mat.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/Materials/sunset.mat.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/daytime.hdr -> MuseumProject/Assets/Resources/Fonts/Cubemaps/daytime.hdr
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/daytime.hdr.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/daytime.hdr.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/sky.tga -> MuseumProject/Assets/Resources/Fonts/Cubemaps/sky.tga
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/sky.tga.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/sky.tga.meta
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/sunset.hdr -> MuseumProject/Assets/Resources/Fonts/Cubemaps/sunset.hdr
+#	renamed:    MuseumProject/Assets/Resources/Cubemaps/sunset.hdr.meta -> MuseumProject/Assets/Resources/Fonts/Cubemaps/sunset.hdr.meta
+#	new file:   MuseumProject/Assets/Resources/Scenes.meta
+#	new file:   MuseumProject/Assets/Resources/Scenes/Museum.unity
+#	new file:   MuseumProject/Assets/Resources/Scenes/Museum.unity.meta
+#	renamed:    MuseumProject/Assets/Scenes/New Terrain.asset -> MuseumProject/Assets/Resources/Scenes/New Terrain.asset
+#	renamed:    MuseumProject/Assets/Scenes/New Terrain.asset.meta -> MuseumProject/Assets/Resources/Scenes/New Terrain.asset.meta
+#	renamed:    MuseumProject/Assets/Scenes/SecondaryTerrain.asset -> MuseumProject/Assets/Resources/Scenes/SecondaryTerrain.asset
+#	renamed:    MuseumProject/Assets/Scenes/SecondaryTerrain.asset.meta -> MuseumProject/Assets/Resources/Scenes/SecondaryTerrain.asset.meta
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes.meta -> MuseumProject/Assets/Resources/Scenes/Test Scenes.meta
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/Demo.unity -> MuseumProject/Assets/Resources/Scenes/Test Scenes/Demo.unity
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/Demo.unity.meta -> MuseumProject/Assets/Resources/Scenes/Test Scenes/Demo.unity.meta
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/Showcase.unity -> MuseumProject/Assets/Resources/Scenes/Test Scenes/Showcase.unity
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/Showcase.unity.meta -> MuseumProject/Assets/Resources/Scenes/Test Scenes/Showcase.unity.meta
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/asset_test.unity -> MuseumProject/Assets/Resources/Scenes/Test Scenes/asset_test.unity
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/asset_test.unity.meta -> MuseumProject/Assets/Resources/Scenes/Test Scenes/asset_test.unity.meta
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/skybox_test.unity -> MuseumProject/Assets/Resources/Scenes/Test Scenes/skybox_test.unity
+#	renamed:    MuseumProject/Assets/Scenes/Test Scenes/skybox_test.unity.meta -> MuseumProject/Assets/Resources/Scenes/Test Scenes/skybox_test.unity.meta
+#	new file:   MuseumProject/Assets/Rolie Polie Olie Intro (1997-).mp4
+#	new file:   MuseumProject/Assets/Rolie Polie Olie Intro (1997-).mp4.meta
+#	new file:   MuseumProject/Assets/Rotoscope.jpg
+#	new file:   MuseumProject/Assets/Rotoscope.jpg.meta
+#	new file:   MuseumProject/Assets/RotoscopeLabel.jpg
+#	new file:   MuseumProject/Assets/RotoscopeLabel.jpg.meta
+#	new file:   MuseumProject/Assets/SB.jpg
+#	new file:   MuseumProject/Assets/SB.jpg.meta
+#	new file:   MuseumProject/Assets/SSSD.jpg
+#	new file:   MuseumProject/Assets/SSSD.jpg.meta
+#	new file:   MuseumProject/Assets/ScannerDarlyLabel.jpg
+#	new file:   MuseumProject/Assets/ScannerDarlyLabel.jpg.meta
+#	modified:   MuseumProject/Assets/Scenes.meta
+#	new file:   MuseumProject/Assets/Scenes/Museum Jiten edit.unity
+#	new file:   MuseumProject/Assets/Scenes/Museum Jiten edit.unity.meta
+#	modified:   MuseumProject/Assets/Scenes/Museum.unity
+#	modified:   MuseumProject/Assets/Scenes/Museum.unity.meta
+#	new file:   MuseumProject/Assets/Scripts/PlayVideo.cs
+#	new file:   MuseumProject/Assets/Scripts/PlayVideo.cs.meta
+#	new file:   MuseumProject/Assets/Source.jpg
+#	new file:   MuseumProject/Assets/Source.jpg.meta
+#	modified:   MuseumProject/Assets/Standard Assets/Characters/FirstPersonCharacter/Prefabs/FPSController.prefab
+#	new file:   MuseumProject/Assets/Textures.meta
+#	new file:   MuseumProject/Assets/alice_audio.mp3
+#	new file:   MuseumProject/Assets/alice_audio.mp3.meta
+#	new file:   MuseumProject/Assets/blacktexture.jpg
+#	new file:   MuseumProject/Assets/blacktexture.jpg.meta
+#	new file:   MuseumProject/Assets/floor_texture.jpg
+#	new file:   MuseumProject/Assets/floor_texture.jpg.meta
+#	new file:   MuseumProject/Assets/glass+dome.skp
+#	new file:   MuseumProject/Assets/glass+dome.skp.meta
+#	new file:   MuseumProject/Assets/marblee.jpg
+#	new file:   MuseumProject/Assets/marblee.jpg.meta
+#	new file:   MuseumProject/Assets/museum_texture.jpg
+#	new file:   MuseumProject/Assets/museum_texture.jpg.meta
+#	new file:   MuseumProject/Assets/painted-skip-trowel-ceiling.jpg
+#	new file:   MuseumProject/Assets/painted-skip-trowel-ceiling.jpg.meta
+#	new file:   MuseumProject/Assets/patent_diagram.png
+#	new file:   MuseumProject/Assets/patent_diagram.png.meta
+#	new file:   MuseumProject/Assets/playspacebar.cs
+#	new file:   MuseumProject/Assets/playspacebar.cs.meta
+#	new file:   MuseumProject/Assets/rotoscopeexample.jpg
+#	new file:   MuseumProject/Assets/rotoscopeexample.jpg.meta
+#	new file:   MuseumProject/Assets/takeonme.mp4
+#	new file:   MuseumProject/Assets/takeonme.mp4.meta
+#	new file:   MuseumProject/Assets/takeonmeaudio.mp3
+#	new file:   MuseumProject/Assets/takeonmeaudio.mp3.meta
+#	new file:   MuseumProject/Assets/winsor.jpg
+#	new file:   MuseumProject/Assets/winsor.jpg.meta
+#	new file:   MuseumProject/Assets/wood texture.jpg
+#	new file:   MuseumProject/Assets/wood texture.jpg.meta
+#	modified:   MuseumProject/MuseumProject.Editor.Plugins.csproj
+#	new file:   MuseumProject/MuseumProject.Editor.csproj
+#	modified:   MuseumProject/MuseumProject.Plugins.csproj
+#	modified:   MuseumProject/MuseumProject.csproj
+#	modified:   MuseumProject/MuseumProject.sln
+#	modified:   MuseumProject/ProjectSettings/AudioManager.asset
+#	modified:   MuseumProject/ProjectSettings/DynamicsManager.asset
+#	modified:   MuseumProject/ProjectSettings/EditorBuildSettings.asset
+#	modified:   MuseumProject/ProjectSettings/EditorSettings.asset
+#	modified:   MuseumProject/ProjectSettings/InputManager.asset
+#	modified:   MuseumProject/ProjectSettings/NavMeshAreas.asset
+#	modified:   MuseumProject/ProjectSettings/NetworkManager.asset
+#	modified:   MuseumProject/ProjectSettings/Physics2DSettings.asset
+#	modified:   MuseumProject/ProjectSettings/ProjectSettings.asset
+#	modified:   MuseumProject/ProjectSettings/QualitySettings.asset
+#	modified:   MuseumProject/ProjectSettings/TagManager.asset
+#	modified:   MuseumProject/ProjectSettings/TimeManager.asset
+#	new file:   MuseumProject/ProjectSettings/UnityAdsSettings.asset
+#	new file:   MuseumProject/ProjectSettings/UnityAnalyticsManager.asset
+#
+
