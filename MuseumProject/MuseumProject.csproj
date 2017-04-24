@@ -86,6 +86,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayVideo.cs" />
     <Compile Include="Assets\Scripts\ShowcaseMovement.cs" />
+    <Compile Include="Assets\playspacebar.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\Fonts\Cubemaps\3DText.shader" />
