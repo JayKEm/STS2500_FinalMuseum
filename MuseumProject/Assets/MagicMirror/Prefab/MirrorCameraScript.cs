@@ -50,7 +50,7 @@ public class MirrorCameraScript : MonoBehaviour
             reflectionTexture.antiAliasing = 1;
             reflectionTexture.name = "MirrorRenderTexture_" + GetInstanceID();
             reflectionTexture.hideFlags = HideFlags.HideAndDontSave;
-            reflectionTexture.autoGenerateMips = false;
+            reflectionTexture.generateMips = false;
             reflectionTexture.wrapMode = TextureWrapMode.Clamp;
             mirrorMaterial.SetTexture("_MainTex", reflectionTexture);
             oldReflectionTextureSize = mirrorScript.TextureSize;
