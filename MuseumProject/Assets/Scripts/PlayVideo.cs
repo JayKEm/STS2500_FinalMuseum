@@ -28,10 +28,12 @@ public class PlayVideo : MonoBehaviour {
     }
 
     void OnTriggerEnter(Collider col) {
+        if (!col.gameObject.name.ToLower().Equals("playerInteract")) return;
         inRange = true;
     }
 
     void OnTriggerExit(Collider col) {
+        if (!col.gameObject.name.ToLower().Equals("playerInteract")) return;
         inRange = false;
     }
 }
